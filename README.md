@@ -4,3 +4,4 @@ If you downloaded the .zip you need to extract .zip file to MojoLauncher>instanc
 
 
 ![sekil](a.jpg)
+![sekil2](o.png)
