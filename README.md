@@ -1,0 +1,1 @@
+Download mods/resourcepacks. Open Mojo Launcher and click "Open Game Directory". Come to downloads from 3 shits on the left corner. Open downloads, clicl downloaded .zip file and extract all downloaded mods/resourcepacks to MojoLauncher>instances>fabric-loader-0.18-1.21.8-xxxx>mods.
